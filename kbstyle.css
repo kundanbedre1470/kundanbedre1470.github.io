@@ -1,0 +1,173 @@
+.header {
+	  overflow-x: hidden;
+	  background-color: #FFFFFF;
+	  padding: 34px 8px 35px 15px;
+	  height: 38px;
+	  position: fixed;
+	  width: 100%;
+	}
+
+	
+	.header a {
+	  float: left;
+	  color: black;
+	  text-align: center;
+	  padding: 12px;
+	  text-decoration: none;
+	  font-size: 18px;
+	  line-height: 25px;
+	  border-radius: 4px;
+	}
+
+	.header a.logo {
+	  font-size: 30px;
+	  font-weight: bold;
+		text-decoration: none;
+		color: black;
+		padding: 10px 0px 0px 72px;
+
+	}
+
+	.header-right {
+		float: right;
+		color: black;
+		padding: 8px 43px 0px 0px;
+
+	}
+	.header-right a{
+		text-decoration: none;
+		text-align: center;
+		padding: 12px;
+		//padding-top:8px;/	
+		font-size: 18px;
+		font-weight: bold;
+		color: black;
+		
+	}
+	
+	.header-right a:hover {
+		background-color: grey;
+	}
+	
+	
+	footer {
+	  text-align: center;
+	  padding: 3px;
+	  background-color: black;
+	  color: white;
+	}
+
+		
+	
+	
+	
+	
+	
+	html,body {
+    display: block;
+    margin: 0px;
+	font-family: 'Kumbh Sans', sans-serif;
+	overflow-x: hidden;
+	max-width: 100%;
+		
+}
+	.left{
+		float: left;
+		padding: 63px 0px 0px 137px;
+	}
+	.right{
+		float: right;
+		padding: 126px 126px 20px 57px;;
+	}
+	#main .left {
+		float: left;
+		padding: 120px 0px 0px 206px;
+	}
+	#main .right{
+		float: right;
+		padding: 236px 101px 0px 0px;
+		font-size: 25px;
+	}
+
+#img1 {
+	
+    margin: 26px -461px 256px 79px
+}
+#img2 {
+	
+    margin: 52px 201px 48px 0px;
+}
+#img3 {
+	margin: 109px 15px 48px -200px;
+		}
+		
+#skills .left{
+		float: left;
+		padding: 280px 0px 0px 168px;
+		font-size: 25px;		
+	}	
+	
+	#achievements .right{
+		float: right;
+		font-size: 25px;
+		padding: 201px 230px 0px 0px;	
+	
+	}
+	
+	
+
+#img4 {
+	
+        margin: 41px -204px 151px 99px;
+
+}
+	
+//Scroll/
+
+#main{
+
+    width: 100%;
+    display: inline-block;
+
+}
+	
+
+
+#skills{
+
+    width: 100%;
+    display: inline-block;
+
+}
+	
+#achievements
+{
+
+    width: 100%;
+    display: inline-block;
+
+}
+
+
+
+.b{
+	 background: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+    color: #202124;
+    border: 2px solid #202124;
+    font-size: 20px;
+    font-family: 'Kumbh Sans', sans-serif;
+	
+}
+
+#words {
+	width: 100%;
+    display: inline-block;
+    text-align: center;
+	font-size:25px;
+	font-family: 'Kumbh Sans',sans-serif;
+	padding: 100px 0px 0px 0px;
+}
